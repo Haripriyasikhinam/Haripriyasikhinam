@@ -10,7 +10,7 @@
 ### 📊 **GitHub Stats**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Haripriyasikhinam&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haripriyasikhinam&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reddy06032001&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haripriyasikhinam&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
 
